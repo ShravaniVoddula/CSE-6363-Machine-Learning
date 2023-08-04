@@ -1,0 +1,8 @@
+Here i implemented Decision tree , RandomForest using gini and entrophy , boosting Algorithms using entrophy  on small dataset of tinatic from kaggale .
+We are predicting who survived on the tinatic boat when input data passed.
+Before implementing the data, I did data cleaning 
+Below are the accuaracy of implemented algorithms
+
+          DecisionTree         RandomForest          Boosting
+Gini     0.8397129186602871    0.45215311004784686   
+Entrpy   0.7727272727272727    0.5980861244019139    0.937799043062201
