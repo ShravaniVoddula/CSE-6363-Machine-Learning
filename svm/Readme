@@ -1,0 +1,7 @@
+Here we implemented different variations of svms
+  1.Linear SVM
+  2.Non-Linear SVM 
+  3.Multi-Class 
+    3.a.Linear Multi-Class 
+    3.b.Non-Linear SVM Multi-Class 
+And I also compared the outcomes with pre-defined functions froms klearn.svm.SVC
